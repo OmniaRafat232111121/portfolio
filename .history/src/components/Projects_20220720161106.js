@@ -14,7 +14,7 @@ import ProjImg10 from "../assets/img/project_img10.png";
 import ProjImg11 from "../assets/img/project_image11.png";
 import ProjImg12 from "../assets/img/project_image12.png";
 import ProjImg13 from "../assets/img/project_image13.jpg";
-import ProjImg14 from "../assets/img/project_image14.jpg.png";
+import ProjImg14 from "../assets/img/project_image13.jpg";
 import ProjectCard from './ProjectCard';
 const Projects = () => {
   
@@ -96,9 +96,9 @@ const projects = [
         description: "Development",
         imgUrl: ProjImg13,
         link:'https://github.com/OmniaRafat232111121/manage_landing_Page'
-      },
+      }
       {
-        title: "E-commerce",
+        title: "Manage",
         description: "Development",
         imgUrl: ProjImg14,
         link:'https://github.com/OmniaRafat232111121/manage_landing_Page'

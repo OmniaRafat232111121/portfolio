@@ -98,7 +98,7 @@ const projects = [
         link:'https://github.com/OmniaRafat232111121/manage_landing_Page'
       },
       {
-        title: "E-commerce",
+        title: "E",
         description: "Development",
         imgUrl: ProjImg14,
         link:'https://github.com/OmniaRafat232111121/manage_landing_Page'
