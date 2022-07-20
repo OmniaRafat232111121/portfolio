@@ -13,7 +13,7 @@ import ProjImg9 from "../assets/img/project_image9.png";
 import ProjImg10 from "../assets/img/project_img10.png";
 import ProjImg11 from "../assets/img/project_image11.png";
 import ProjImg12 from "../assets/img/project_image12.png";
-import ProjImg13 from "../assets/img/project_image13.jpg";
+import ProjImg13 from "../assets/img/project_image1.png";
 import ProjectCard from './ProjectCard';
 const Projects = () => {
   

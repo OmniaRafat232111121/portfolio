@@ -13,7 +13,6 @@ import ProjImg9 from "../assets/img/project_image9.png";
 import ProjImg10 from "../assets/img/project_img10.png";
 import ProjImg11 from "../assets/img/project_image11.png";
 import ProjImg12 from "../assets/img/project_image12.png";
-import ProjImg13 from "../assets/img/project_image13.jpg";
 import ProjectCard from './ProjectCard';
 const Projects = () => {
   
@@ -91,9 +90,9 @@ const projects = [
         link:'https://github.com/OmniaRafat232111121/Gym-'
       },
       {
-        title: "Manage",
+        title: "ATHELETE",
         description: "Development",
-        imgUrl: ProjImg13,
+        imgUrl: ProjImg1,
         link:'https://github.com/OmniaRafat232111121/manage_landing_Page'
       }
   ];
