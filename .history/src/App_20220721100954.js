@@ -9,7 +9,6 @@ import Projects from './components/Projects';
 import About from './components/About';
 import Contact from './components/Contact';
 import { Footer } from './components/Footer';
-import Resume from './components/Resume/Resume';
 const App = () => {
   return (
     <div className="App">
@@ -17,7 +16,7 @@ const App = () => {
     <Banner />
     <Skills />
     <About />
-    <Resume />
+    <Re
     <Projects />
     <Contact />
     <Footer />
