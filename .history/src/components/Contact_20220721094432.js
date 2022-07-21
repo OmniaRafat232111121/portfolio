@@ -42,8 +42,12 @@ const [status,setStatus]=useState({});
     <section className="contact" id="connect">
     <Container>
       <Row className="align-items-center">
-        
-  
+        <Col size={12} md={6}>
+          
+        import contactImg from '../assets/img/contact-img.svg'
+          
+        </Col>
+        <Col size={12} md={6}>
          
               <div >
               <h2>Get In Touch</h2>
@@ -75,7 +79,7 @@ const [status,setStatus]=useState({});
               </form>
             </div>
        
-        
+        </Col>
       </Row>
     </Container>
   </section>

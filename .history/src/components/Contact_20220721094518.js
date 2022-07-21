@@ -75,7 +75,7 @@ const [status,setStatus]=useState({});
               </form>
             </div>
        
-        
+        </Col>
       </Row>
     </Container>
   </section>

@@ -43,7 +43,7 @@ const [status,setStatus]=useState({});
     <Container>
       <Row className="align-items-center">
         
-  
+        <Col size={12} md={6}>
          
               <div >
               <h2>Get In Touch</h2>
@@ -75,7 +75,7 @@ const [status,setStatus]=useState({});
               </form>
             </div>
        
-        
+        </Col>
       </Row>
     </Container>
   </section>

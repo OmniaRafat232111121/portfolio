@@ -1,7 +1,7 @@
 import React from 'react'
 import {useState} from 'react'
 import { Container,Col,Row } from 'react-bootstrap';
-
+import ContactImg from '../assets/img/contact-img.svg'
 const Contact = () => {
 const formInitiaDetails={
     firstName:'',
@@ -42,8 +42,12 @@ const [status,setStatus]=useState({});
     <section className="contact" id="connect">
     <Container>
       <Row className="align-items-center">
-        
-  
+        <Col size={12} md={6}>
+          
+              <img  src={contactImg} alt="Contact Us"/>
+          
+        </Col>
+        <Col size={12} md={6}>
          
               <div >
               <h2>Get In Touch</h2>
@@ -75,7 +79,7 @@ const [status,setStatus]=useState({});
               </form>
             </div>
        
-        
+        </Col>
       </Row>
     </Container>
   </section>
