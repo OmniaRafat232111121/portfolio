@@ -15,7 +15,7 @@ import ProjImg11 from "../assets/img/project_image11.png";
 import ProjImg12 from "../assets/img/project_image12.png";
 import ProjImg13 from "../assets/img/project_image13.jpg";
 import ProjImg14 from "../assets/img/project_image14.jpg.png";
-import ProjImg15 from "../assets/img/ProjImg15.png";
+import ProjImg15 from "../assets/img/p";
 import ProjectCard from './ProjectCard';
 const Projects = () => {
   
