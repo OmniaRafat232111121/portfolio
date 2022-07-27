@@ -109,12 +109,6 @@ const projects = [
         description: "Development",
         imgUrl: ProjImg15,
         link:'https://cryptoappcoin.netlify.app/'
-      },
-      {
-        title: "animateSalon",
-        description: "Development",
-        imgUrl: ProjImg16,
-        link:'https://animate-salon.vercel.app/'
       }
 
   ];

@@ -16,7 +16,7 @@ import ProjImg12 from "../assets/img/project_image12.png";
 import ProjImg13 from "../assets/img/project_image13.jpg";
 import ProjImg14 from "../assets/img/project_image14.jpg.png";
 import ProjImg15 from "../assets/img/ProjImg15.png";
-import ProjImg16 from "../assets/img/ProjImg16.png";
+import ProjImg16 from "../assets/img/";
 import ProjectCard from './ProjectCard';
 const Projects = () => {
   
@@ -109,12 +109,6 @@ const projects = [
         description: "Development",
         imgUrl: ProjImg15,
         link:'https://cryptoappcoin.netlify.app/'
-      },
-      {
-        title: "animateSalon",
-        description: "Development",
-        imgUrl: ProjImg16,
-        link:'https://animate-salon.vercel.app/'
       }
 
   ];

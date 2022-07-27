@@ -113,8 +113,8 @@ const projects = [
       {
         title: "animateSalon",
         description: "Development",
-        imgUrl: ProjImg16,
-        link:'https://animate-salon.vercel.app/'
+        imgUrl: ProjImg1,
+        link:'https://cryptoappcoin.netlify.app/'
       }
 
   ];

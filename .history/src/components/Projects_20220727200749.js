@@ -111,10 +111,10 @@ const projects = [
         link:'https://cryptoappcoin.netlify.app/'
       },
       {
-        title: "animateSalon",
+        title: "cryptocurrency",
         description: "Development",
-        imgUrl: ProjImg16,
-        link:'https://animate-salon.vercel.app/'
+        imgUrl: ProjImg15,
+        link:'https://cryptoappcoin.netlify.app/'
       }
 
   ];
