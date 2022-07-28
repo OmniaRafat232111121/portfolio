@@ -134,9 +134,11 @@ const projects = [
              <Nav.Link eventKey="first">Front-end</Nav.Link>
            </Nav.Item>
            <Nav.Item>
-             <Nav.Link eventKey="second">ِِAnimation</Nav.Link>
+             <Nav.Link eventKey="second">ِِAn</Nav.Link>
            </Nav.Item>
-           
+           <Nav.Item>
+             <Nav.Link eventKey="third">Tab 3</Nav.Link>
+           </Nav.Item>
          </Nav>
          <Tab.Content id="slideInUp" >
            <Tab.Pane eventKey="first">
