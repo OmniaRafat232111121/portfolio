@@ -123,7 +123,7 @@ const projects = [
    <section className="project" id="project">
    <Container>
    <Row>
-   <Col size={12}>
+   <Col size={}>
   
      <div>
        <h2>Projects</h2>
@@ -131,13 +131,10 @@ const projects = [
        <Tab.Container id="projects-tabs" defaultActiveKey="first">
          <Nav variant="pills" className="nav-pills mb-5 justify-content-center align-items-center" id="pills-tab">
            <Nav.Item>
-             <Nav.Link eventKey="first">WebSItes</Nav.Link>
+             <Nav.Link eventKey="first">Front-end</Nav.Link>
            </Nav.Item>
            <Nav.Item>
-             <Nav.Link eventKey="second">Animation</Nav.Link>
-           </Nav.Item>
-           <Nav.Item>
-             <Nav.Link eventKey="second">Games JS</Nav.Link>
+             <Nav.Link eventKey="second">ِِAnimation</Nav.Link>
            </Nav.Item>
            
          </Nav>

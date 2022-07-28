@@ -134,10 +134,10 @@ const projects = [
              <Nav.Link eventKey="first">WebSItes</Nav.Link>
            </Nav.Item>
            <Nav.Item>
-             <Nav.Link eventKey="second">Animation</Nav.Link>
+             <Nav.Link eventKey="second">ِِAnimation</Nav.Link>
            </Nav.Item>
            <Nav.Item>
-             <Nav.Link eventKey="second">Games JS</Nav.Link>
+             <Nav.Link eventKey="second">ِِGames JS</Nav.Link>
            </Nav.Item>
            
          </Nav>

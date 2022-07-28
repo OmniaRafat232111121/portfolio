@@ -24,7 +24,7 @@ function About() {
               I'm a Front-end web developer with 2+ years of experience in designing and building responsive web apps. 
               </p>
               <p className="about__text p__color">
-              Proficient styling: CSS,Bootstrap,Material UI ,Tailwind CSS,Recat-BootStrap-React Js as well as a good knowledge in Backend with Laravel.
+              Proficient styling: CSS,Bootstrap,Material UI ,لReact Js as well as a good knowledge in Backend with Laravel.
               </p>
               <p className="about__text p__color">
                 There are many variations of passages of Lorem Ipsum available,
