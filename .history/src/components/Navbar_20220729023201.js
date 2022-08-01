@@ -67,3 +67,9 @@ return (
 }
 
 
+<Router>
+              <Switch>
+                <NavRoute exactly component={Ho} pattern="/" />
+                <NavRoute component={Page404} />
+              </Switch>
+</Router>

@@ -118,10 +118,10 @@ const projects = [
         link:'https://animate-salon.vercel.app/'
       },
       {
-        title: "AnimateLanding",
+        title: "animateLanding",
         description: "Development",
-        imgUrl: ProjImg17,
-        link:'https://amazing-50im4kmw9-omniarafat232111121.vercel.app/'
+        imgUrl: ProjImg16,
+        link:'https://animate-salon.vercel.app/'
       }
 
   ];

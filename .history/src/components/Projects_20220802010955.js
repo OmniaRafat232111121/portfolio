@@ -17,7 +17,7 @@ import ProjImg13 from "../assets/img/project_image13.jpg";
 import ProjImg14 from "../assets/img/project_image14.jpg.png";
 import ProjImg15 from "../assets/img/ProjImg15.png";
 import ProjImg16 from "../assets/img/ProjImg16.png";
-import ProjImg17 from "../assets/img/ProjImg17.png";
+
 import ProjectCard from './ProjectCard';
 const Projects = () => {
   
@@ -116,12 +116,6 @@ const projects = [
         description: "Development",
         imgUrl: ProjImg16,
         link:'https://animate-salon.vercel.app/'
-      },
-      {
-        title: "AnimateLanding",
-        description: "Development",
-        imgUrl: ProjImg17,
-        link:'https://amazing-50im4kmw9-omniarafat232111121.vercel.app/'
       }
 
   ];

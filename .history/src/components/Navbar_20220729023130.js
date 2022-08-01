@@ -67,3 +67,12 @@ return (
 }
 
 
+<Router>
+              <Switch>
+                <NavRoute exactly component={Landing} pattern="/" />
+                <Route exactly component={Login} pattern="/login" />
+                <NavRoute exactly component={Page1} pattern="/path1" />
+                <NavRoute exactly component={Page2} pattern="/path2" />
+                <NavRoute component={Page404} />
+              </Switch>
+          </Router>
