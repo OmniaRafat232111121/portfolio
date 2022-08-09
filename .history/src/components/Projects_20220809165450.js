@@ -18,7 +18,6 @@ import ProjImg14 from "../assets/img/project_image14.jpg.png";
 import ProjImg15 from "../assets/img/ProjImg15.png";
 import ProjImg16 from "../assets/img/ProjImg16.png";
 import ProjImg17 from "../assets/img/ProjImg17.png";
-import ProjImg18 from "../assets/img/ProjImg18.jpg";
 import ProjectCard from './ProjectCard';
 const Projects = () => {
   
@@ -125,10 +124,10 @@ const projects = [
         link:'https://amazing-50im4kmw9-omniarafat232111121.vercel.app/'
       },
       {
-        title: "Space_Tourism",
+        title: "SpaceTourism",
         description: "Development",
-        imgUrl: ProjImg18,
-        link:'https://space-toursim-five.vercel.app/'
+        imgUrl: ProjImg17,
+        link:'https://amazing-50im4kmw9-omniarafat232111121.vercel.app/'
       },
 
 
