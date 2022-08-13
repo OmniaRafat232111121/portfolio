@@ -20,7 +20,7 @@ import ProjImg16 from "../assets/img/ProjImg16.png";
 import ProjImg17 from "../assets/img/ProjImg17.png";
 import ProjImg18 from "../assets/img/ProjImg18.jpg";
 import ProjImg19 from "../assets/img/ProImg19.png";
-import ProjImg20 from "../assets/img/ProImg20.png";
+import ProjImg20 from "../assets/img/";
 import ProjectCard from './ProjectCard';
 const Projects = () => {
   
@@ -138,12 +138,7 @@ const projects = [
         imgUrl: ProjImg19,
         link:'https://diseny-clone-dzlelgyo4-omniarafat232111121.vercel.app/'
       },
-      {
-        title: "NFT Landing",
-        description: "Development",
-        imgUrl: ProjImg20,
-        link:'https://nft-six-dun.vercel.app/'
-      },
+
 
 
 

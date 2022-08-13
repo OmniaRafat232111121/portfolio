@@ -138,12 +138,7 @@ const projects = [
         imgUrl: ProjImg19,
         link:'https://diseny-clone-dzlelgyo4-omniarafat232111121.vercel.app/'
       },
-      {
-        title: "NFT Landing",
-        description: "Development",
-        imgUrl: ProjImg20,
-        link:'https://nft-six-dun.vercel.app/'
-      },
+      
 
 
 
