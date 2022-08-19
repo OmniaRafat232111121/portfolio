@@ -21,8 +21,6 @@ import ProjImg17 from "../assets/img/ProjImg17.png";
 import ProjImg18 from "../assets/img/ProjImg18.jpg";
 import ProjImg19 from "../assets/img/ProImg19.png";
 import ProjImg20 from "../assets/img/ProImg20.png";
-import ProjImg21 from "../assets/img/ProImg21.png";
-import  ProImg22 from "../assets/img/ProImg22.png";
 import ProjectCard from './ProjectCard';
 const Projects = () => {
   
@@ -146,18 +144,7 @@ const projects = [
         imgUrl: ProjImg20,
         link:'https://nft-six-dun.vercel.app/'
       },
-      {
-        title: "TODOLIST",
-        description: "Development",
-        imgUrl: ProjImg21,
-        link:'https://nft-six-dun.vercel.app/'
-      },
-      {
-        title: "Grocery",
-        description: "Development",
-        imgUrl: ProImg22,
-        link:'https://food-web-iota.vercel.app/'
-      },
+ 
 
 
 

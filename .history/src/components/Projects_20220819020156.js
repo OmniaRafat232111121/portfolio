@@ -22,7 +22,7 @@ import ProjImg18 from "../assets/img/ProjImg18.jpg";
 import ProjImg19 from "../assets/img/ProImg19.png";
 import ProjImg20 from "../assets/img/ProImg20.png";
 import ProjImg21 from "../assets/img/ProImg21.png";
-import  ProImg22 from "../assets/img/ProImg22.png";
+import ProjImg22 from "../assets/img/ProImg22.png";
 import ProjectCard from './ProjectCard';
 const Projects = () => {
   
@@ -155,7 +155,7 @@ const projects = [
       {
         title: "Grocery",
         description: "Development",
-        imgUrl: ProImg22,
+        imgUrl: roImg22,
         link:'https://food-web-iota.vercel.app/'
       },
 
