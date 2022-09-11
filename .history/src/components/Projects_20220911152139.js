@@ -24,7 +24,6 @@ import ProjImg20 from "../assets/img/ProImg20.png";
 import ProjImg21 from "../assets/img/ProImg21.png";
 import  ProImg22 from "../assets/img/ProImg22.png";
 import  ProImg23 from "../assets/img/proImg23.png";
-import  ProImg24 from "../assets/img/proImg24.png";
 import ProjectCard from './ProjectCard';
 const Projects = () => {
   
@@ -167,7 +166,7 @@ const projects = [
         link:'https://tailwindreact-nine.vercel.app/'
       },
       {
-        title: "Datawarehouse",
+        title: "Datawarehous",
         description: "Development",
         imgUrl: ProImg24,
         link:'https://data-warehouse-one.vercel.app/'
