@@ -162,7 +162,7 @@ const projects = [
       },
       {
         title: "React",
-        description: "tailwind&React JS",
+        description: "Development",
         imgUrl: ProImg23,
         link:'https://tailwindreact-nine.vercel.app/'
       },

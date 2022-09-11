@@ -22,9 +22,9 @@ import ProjImg18 from "../assets/img/ProjImg18.jpg";
 import ProjImg19 from "../assets/img/ProImg19.png";
 import ProjImg20 from "../assets/img/ProImg20.png";
 import ProjImg21 from "../assets/img/ProImg21.png";
-import ProImg22 from "../assets/img/ProImg22.png";
-import ProImg23 from "../assets/img/proImg23.png";
-import ProImg24 from "../assets/img/proImg24.png";
+import  ProImg22 from "../assets/img/ProImg22.png";
+import  ProImg23 from "../assets/img/proImg23.png";
+import  ProImg24 from "../assets/img/proImg24.png";
 import ProjectCard from './ProjectCard';
 const Projects = () => {
   
@@ -162,13 +162,13 @@ const projects = [
       },
       {
         title: "React",
-        description: "tailwind&React JS",
+        description: "Development",
         imgUrl: ProImg23,
         link:'https://tailwindreact-nine.vercel.app/'
       },
       {
         title: "Datawarehouse",
-        description: "tailwind&React JS",
+        description: "Development",
         imgUrl: ProImg24,
         link:'https://data-warehouse-one.vercel.app/'
       },
