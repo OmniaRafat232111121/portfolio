@@ -162,8 +162,8 @@ const projects = [
       {
         title: "React",
         description: "Development",
-        imgUrl: ProImg23,
-        link:'https://tailwindreact-nine.vercel.app/'
+        imgUrl: ProImg22,
+        link:'https://food-web-iota.vercel.app/'
       },
 
 

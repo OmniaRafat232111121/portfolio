@@ -23,7 +23,7 @@ import ProjImg19 from "../assets/img/ProImg19.png";
 import ProjImg20 from "../assets/img/ProImg20.png";
 import ProjImg21 from "../assets/img/ProImg21.png";
 import  ProImg22 from "../assets/img/ProImg22.png";
-import  ProImg23 from "../assets/img/proImg23.png";
+import  ProImg23 from "../assets/img/p";
 import ProjectCard from './ProjectCard';
 const Projects = () => {
   
@@ -158,12 +158,6 @@ const projects = [
         description: "Development",
         imgUrl: ProImg22,
         link:'https://food-web-iota.vercel.app/'
-      },
-      {
-        title: "React",
-        description: "Development",
-        imgUrl: ProImg23,
-        link:'https://tailwindreact-nine.vercel.app/'
       },
 
 
