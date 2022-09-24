@@ -28,7 +28,6 @@ import ProImg25 from "../assets/img/proImg24.png";
 import ProjectCard from './ProjectCard';
 import ProImg26 from '../assets/img/shop.png'
 import ProImg27 from '../assets/img/tic.png'
-import ProImg28 from '../assets/img/notes.png'
 const Projects = () => {
   
 const projects = [
@@ -187,15 +186,11 @@ const projects = [
         imgUrl: ProImg27,
         link:' https://github.com/OmniaRafat232111121/Tic-Tac-Toe'
       },
+      
 
-      {
-        title: "notes",
-        description: "React JS with typescript",
-        imgUrl: ProImg28,
-        link:'  https://github.com/OmniaRafat232111121/notes'
-      },
+      https://notestypereact-gcp6nu594-omniarafat232111121.vercel.app/
      
-     
+      
 
 
 
