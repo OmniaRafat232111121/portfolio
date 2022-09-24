@@ -26,7 +26,6 @@ import ProImg22 from "../assets/img/ProImg22.png";
 import ProImg23 from "../assets/img/proImg23.png";
 import ProImg25 from "../assets/img/proImg24.png";
 import ProjectCard from './ProjectCard';
-import ProImg26 from '../assets/img/shop.png'
 const Projects = () => {
   
 const projects = [
@@ -176,7 +175,7 @@ const projects = [
       {
         title: "shopingCart",
         description: "React JS with typescript",
-        imgUrl: ProImg26,
+        imgUrl: ProImg25,
         link:' https://github.com/OmniaRafat232111121/shopping'
       },
      

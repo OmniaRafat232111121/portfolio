@@ -26,7 +26,7 @@ import ProImg22 from "../assets/img/ProImg22.png";
 import ProImg23 from "../assets/img/proImg23.png";
 import ProImg25 from "../assets/img/proImg24.png";
 import ProjectCard from './ProjectCard';
-import ProImg26 from '../assets/img/shop.png'
+import ProImg26 from '../'
 const Projects = () => {
   
 const projects = [
