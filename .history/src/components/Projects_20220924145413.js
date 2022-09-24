@@ -27,7 +27,6 @@ import ProImg23 from "../assets/img/proImg23.png";
 import ProImg25 from "../assets/img/proImg24.png";
 import ProjectCard from './ProjectCard';
 import ProImg26 from '../assets/img/shop.png'
-import ProImg27 from '../assets/img/tic.png'
 const Projects = () => {
   
 const projects = [
@@ -181,9 +180,9 @@ const projects = [
         link:' https://github.com/OmniaRafat232111121/shopping'
       },
       {
-        title: "Tic-Tac-Toe",
+        title: "shopingCart",
         description: "React JS with typescript",
-        imgUrl: ProImg27,
+        imgUrl: ProImg26,
         link:' https://github.com/OmniaRafat232111121/Tic-Tac-Toe'
       },
       https://github.com/OmniaRafat232111121/Tic-Tac-Toe
