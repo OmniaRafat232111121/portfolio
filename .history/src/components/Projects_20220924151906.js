@@ -29,7 +29,7 @@ import ProjectCard from './ProjectCard';
 import ProImg26 from '../assets/img/shop.png'
 import ProImg27 from '../assets/img/tic.png'
 import ProImg28 from '../assets/img/notes.png'
-import ProImg29 from '../assets/img/Gyym.png'
+import ProImg29 from '../assets/img'
 const Projects = () => {
   
 const projects = [

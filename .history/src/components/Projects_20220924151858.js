@@ -28,8 +28,8 @@ import ProImg25 from "../assets/img/proImg24.png";
 import ProjectCard from './ProjectCard';
 import ProImg26 from '../assets/img/shop.png'
 import ProImg27 from '../assets/img/tic.png'
+import ProImg2 from '../assets/img/notes.png'
 import ProImg28 from '../assets/img/notes.png'
-import ProImg29 from '../assets/img/Gyym.png'
 const Projects = () => {
   
 const projects = [
